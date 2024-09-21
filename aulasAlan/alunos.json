@@ -1,0 +1,29 @@
+[{"id":1,"nome":"João",
+"idade":20,
+"curso":"Engenharia"},
+
+{"id":2,
+"nome":"Maria",
+"idade":22,
+"curso":"Medicina"},
+
+{"id":3,
+"nome":"Pedro",
+"idade":21,
+"curso":"Administração"},
+
+{"nome":"alan",
+"idade":25,
+"curso":"teste"},
+
+{"nome":"Alan delon",
+"idade":45,
+"curso":"Cinema "},
+
+{"nome":"Prefeito",
+"idade":20,
+"curso":"Publicidade"},
+
+{"nome":"Douglas",
+"idade":20,
+"curso":"Engenharia de Jogos"}]
